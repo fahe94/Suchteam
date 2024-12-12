@@ -17,7 +17,6 @@ p{
   color:  #00ff00;
   font-size:  clamp(14px, 2vw, 20px); 
 }
-
     .container {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -119,9 +118,8 @@ p{
   padding: 60px;
   border-radius: 10px;
   text-align: center;
-  z-index: 10; /* Über dem Video */
+  z-index: 1; /* Über dem Video */
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Leichter Schatten */
-  display: block;
 }
 
 input[type="password"]{
