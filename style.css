@@ -119,7 +119,7 @@ p{
   padding: 60px;
   border-radius: 10px;
   text-align: center;
-  z-index: 1; /* Über dem Video */
+  z-index: 10; /* Über dem Video */
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Leichter Schatten */
 }
 
