@@ -121,6 +121,7 @@ p{
   text-align: center;
   z-index: 10; /* Über dem Video */
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Leichter Schatten */
+  display: block;
 }
 
 input[type="password"]{
