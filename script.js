@@ -1,8 +1,8 @@
 // Mapping von Passwörtern zu Abschnitten
 const passwordMap = {
-  "1234": "content1",
-  "1235": "content2",
-  "1236": "content3",
+  "628491": "content1",
+  "374925": "content2",
+  "159846": "content3",
   "1237": "content4"
 };
 
