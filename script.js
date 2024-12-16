@@ -1,9 +1,9 @@
 // Mapping von Passwörtern zu Abschnitten
 const passwordMap = {
   "628491": "content1",
-  "374925": "content2",
-  "159846": "content3",
-  "873296": "content4"
+  "000000": "content2",
+  "973214": "content3",
+  "123569": "content4"
 };
 
 // Passwort überprüfen
